@@ -1,6 +1,7 @@
 url: https://github.com/HUANGjiale123-bit/dsh-desktop-control/tree/main/plugin
 name: HUANGjiale123-bit/dsh-desktop-control#dsh-desktop-control
 category: tools
+npm: '@huangjiale0113/dsh-desktop-control'
 tarball: https://github.com/HUANGjiale123-bit/dsh-desktop-control/releases/latest/download/dsh-desktop-control.tgz
 description:
   en: 'Windows desktop observation and control: accessibility tree, screenshots, OCR fallback, mouse and keyboard, with session-scoped approvals and an ESC halt gate. Computer use and desktop automation for DSH, including GUI automation fallbacks.'
